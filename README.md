@@ -8,6 +8,10 @@
 
 智能口罩
 
+### [FoldingSpace](https://github.com/TingliangZhang/FoldingSpace)
+
+未来人居——折叠空间
+
 ### [PaperAircraft](https://github.com/TingliangZhang/PaperAircraft)
 
 纸飞机
