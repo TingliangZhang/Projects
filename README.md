@@ -32,6 +32,10 @@ UFO异形涵道风管飞行器
 
 相机+手机，单反替代品
 
+### [SmartToilets](https://github.com/TingliangZhang/SmartToilets)
+
+智能粪坑
+
 ## 2020年10月项目
 
 ### [PeltierArray](https://github.com/TingliangZhang/PeltierArray)
