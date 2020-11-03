@@ -36,6 +36,10 @@ UFO异形涵道风管飞行器
 
 智能粪坑
 
+### [IndoorLocation](https://github.com/TingliangZhang/IndoorLocation)
+
+室内定位
+
 ## 2020年10月项目
 
 ### [PeltierArray](https://github.com/TingliangZhang/PeltierArray)
