@@ -44,6 +44,10 @@ UFO异形涵道风管飞行器
 
 NFC Business Card
 
+### [3D-Monitor](https://github.com/TingliangZhang/3D-Monitor)
+
+3D显示效果
+
 ## 2020年10月项目
 
 ### [PeltierArray](https://github.com/TingliangZhang/PeltierArray)
