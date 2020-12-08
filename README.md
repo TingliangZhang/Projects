@@ -48,6 +48,10 @@ NFC Business Card
 
 3D显示效果
 
+### [Hole](https://github.com/TingliangZhang/Hole)
+
+新媒体艺术作品
+
 ## 2020年10月项目
 
 ### [PeltierArray](https://github.com/TingliangZhang/PeltierArray)
