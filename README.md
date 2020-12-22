@@ -1,6 +1,16 @@
 # Projects
 
+## 12月在研项目
 
+### [HomeBeautySalon](https://github.com/TingliangZhang/HomeBeautySalon)
+
+家庭美容院调研
+
+## 完结项目
+
+### [Hole](https://github.com/TingliangZhang/Hole)
+
+新媒体艺术作品
 
 ## 2020年10月新想法
 
