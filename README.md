@@ -1,5 +1,25 @@
 # Projects
 
+## 2021 11月
+
+### [HandGestureCamera](https://github.com/TingliangZhang/HandGestureCamera)
+
+手势识别相机手环
+
+### [RobotArm](https://github.com/TingliangZhang/RobotArm)
+
+Tina牌机械臂及末端执行机构研发
+
+### [RobotForceSensor](https://github.com/TingliangZhang/RobotForceSensor)
+
+机械臂末端力传感
+
+### [3D-Monitor](https://github.com/TingliangZhang/3D-Monitor)
+
+3D显示效果
+
+
+
 ## 12月在研项目
 
 ### [HomeBeautySalon](https://github.com/TingliangZhang/HomeBeautySalon)
